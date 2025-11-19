@@ -1,7 +1,7 @@
 import { CopyIcon } from 'lucide-react'
 import { IconButton } from './ui/icon-button'
-import { Suspense } from 'react'
 import { WebhooksList } from './webhooks-list'
+import { Suspense } from 'react'
 
 export function Sidebar() {
   return (
